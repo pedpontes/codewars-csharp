@@ -4,8 +4,10 @@ namespace ex1
 {
     public class Program{
         public static void Main(string[] args){
-            string result = Kata.SpinWords("Erro no dicionario");
-            Console.WriteLine(result);
+            string result1 = Kata.SpinWords("Faça a pessoa que você gosta se sentir especial ao invés de só mais uma.");
+            string result2 = Kata.SpinWords("A vida e uma caixa preta nunca saberemos o seu real significado.⁠");
+            Console.WriteLine(result1);
+            Console.WriteLine(result2);
         }
     }
 
