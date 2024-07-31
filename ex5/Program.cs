@@ -8,12 +8,11 @@ namespace ex5
             ListAlphabet(10);
         }
         public static void ListAlphabet(int num){
-            int index = 0;
-            char[] chars = new char[num];
             string alpha = "abcdefghijklmnopqrstuvwxyz";
-            foreach (char c in alpha){
-                if(index < chars.Length) chars[index++] = c;
-            }
+            char[] chars = new char[num];
+
+            for(int i = 0; i< num; i++) chars[i] = alpha[i];
+            
             foreach (char c in chars){
                 Console.Write(c + " ");
             }
