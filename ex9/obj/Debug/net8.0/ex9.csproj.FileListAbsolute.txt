@@ -1,0 +1,15 @@
+C:\Users\Pedro Pontes\Documents\codewars\ex9\bin\Debug\net8.0\ex9.exe
+C:\Users\Pedro Pontes\Documents\codewars\ex9\bin\Debug\net8.0\ex9.deps.json
+C:\Users\Pedro Pontes\Documents\codewars\ex9\bin\Debug\net8.0\ex9.runtimeconfig.json
+C:\Users\Pedro Pontes\Documents\codewars\ex9\bin\Debug\net8.0\ex9.dll
+C:\Users\Pedro Pontes\Documents\codewars\ex9\bin\Debug\net8.0\ex9.pdb
+C:\Users\Pedro Pontes\Documents\codewars\ex9\obj\Debug\net8.0\ex9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Pontes\Documents\codewars\ex9\obj\Debug\net8.0\ex9.AssemblyInfoInputs.cache
+C:\Users\Pedro Pontes\Documents\codewars\ex9\obj\Debug\net8.0\ex9.AssemblyInfo.cs
+C:\Users\Pedro Pontes\Documents\codewars\ex9\obj\Debug\net8.0\ex9.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Pontes\Documents\codewars\ex9\obj\Debug\net8.0\ex9.sourcelink.json
+C:\Users\Pedro Pontes\Documents\codewars\ex9\obj\Debug\net8.0\ex9.dll
+C:\Users\Pedro Pontes\Documents\codewars\ex9\obj\Debug\net8.0\refint\ex9.dll
+C:\Users\Pedro Pontes\Documents\codewars\ex9\obj\Debug\net8.0\ex9.pdb
+C:\Users\Pedro Pontes\Documents\codewars\ex9\obj\Debug\net8.0\ex9.genruntimeconfig.cache
+C:\Users\Pedro Pontes\Documents\codewars\ex9\obj\Debug\net8.0\ref\ex9.dll
