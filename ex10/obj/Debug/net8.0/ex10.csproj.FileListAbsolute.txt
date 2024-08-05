@@ -1,0 +1,15 @@
+C:\Users\Pedro Pontes\Documents\codewars\ex10\bin\Debug\net8.0\ex10.exe
+C:\Users\Pedro Pontes\Documents\codewars\ex10\bin\Debug\net8.0\ex10.deps.json
+C:\Users\Pedro Pontes\Documents\codewars\ex10\bin\Debug\net8.0\ex10.runtimeconfig.json
+C:\Users\Pedro Pontes\Documents\codewars\ex10\bin\Debug\net8.0\ex10.dll
+C:\Users\Pedro Pontes\Documents\codewars\ex10\bin\Debug\net8.0\ex10.pdb
+C:\Users\Pedro Pontes\Documents\codewars\ex10\obj\Debug\net8.0\ex10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Pontes\Documents\codewars\ex10\obj\Debug\net8.0\ex10.AssemblyInfoInputs.cache
+C:\Users\Pedro Pontes\Documents\codewars\ex10\obj\Debug\net8.0\ex10.AssemblyInfo.cs
+C:\Users\Pedro Pontes\Documents\codewars\ex10\obj\Debug\net8.0\ex10.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Pontes\Documents\codewars\ex10\obj\Debug\net8.0\ex10.sourcelink.json
+C:\Users\Pedro Pontes\Documents\codewars\ex10\obj\Debug\net8.0\ex10.dll
+C:\Users\Pedro Pontes\Documents\codewars\ex10\obj\Debug\net8.0\refint\ex10.dll
+C:\Users\Pedro Pontes\Documents\codewars\ex10\obj\Debug\net8.0\ex10.pdb
+C:\Users\Pedro Pontes\Documents\codewars\ex10\obj\Debug\net8.0\ex10.genruntimeconfig.cache
+C:\Users\Pedro Pontes\Documents\codewars\ex10\obj\Debug\net8.0\ref\ex10.dll
