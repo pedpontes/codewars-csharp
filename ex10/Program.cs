@@ -2,6 +2,8 @@
 
 
 using System.Collections;
+using System.Numerics;
+using System.Runtime.CompilerServices;
 
 namespace ex10
 {
@@ -16,29 +18,33 @@ namespace ex10
             }
         }
 
-        public static ListNode AddTwoNumbers(ListNode l1, ListNode l2){
-            string[] nums = new string[2];
+        private static ListNode AddTwoNumbers(ListNode l1, ListNode l2){
+            string[] nums = [
+                ConvertListToString(l1),
+                ConvertListToString(l2)
+            ];
 
-            while(l1 != null){
-                nums[0] = $"{l1.val}{nums[0]}";
-                l1 = l1.next;
-            }
-            while(l2 != null){
-                nums[1] = $"{l2.val}{nums[1]}";
-                l2 = l2.next;
-            }
-            int sum = nums.Aggregate(0,(current, val) => current + int.Parse(val));
-            string sumString = new string(sum.ToString().Reverse().ToArray());
+            char[] sum = (BigInteger.Parse(nums[0]) + BigInteger.Parse(nums[1])).ToString().ToCharArray();
 
-            ListNode head = new ListNode(int.Parse(sumString[0].ToString()));
+            ListNode head = new ListNode(int.Parse(sum[0].ToString()));
             ListNode aux = head;
 
-            for(int i = 1; i<sumString.Length; i++){
-                aux.next = new ListNode(int.Parse(sumString[i].ToString()));
+            for(int i = 1; i<sum.Length; i++){
+                aux.next = new ListNode(int.Parse(sum[i].ToString()));
                 aux = aux.next;
             }
             return head;
         }
+
+        private static string ConvertListToString(ListNode list){
+            string numString = "";
+            while(list != null){
+                numString = $"{list.val}{numString}";
+                list = list.next;
+            }
+            return numString;
+        }
+
         public static ListNode BuildList(int[] values) {
             if (values.Length == 0) return null;
             
@@ -53,14 +59,5 @@ namespace ex10
             return head;
         }
     }
-        public class ListNode{
-            public int val;
-            public ListNode next;
-
-            public ListNode(int val = 0, ListNode next = null){
-                this.val = val;
-                this.next = next;
-            }
-        }
 }
 
