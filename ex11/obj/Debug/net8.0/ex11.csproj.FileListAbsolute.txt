@@ -1,0 +1,15 @@
+C:\Users\Pedro Pontes\Documents\codewars\ex11\bin\Debug\net8.0\ex11.exe
+C:\Users\Pedro Pontes\Documents\codewars\ex11\bin\Debug\net8.0\ex11.deps.json
+C:\Users\Pedro Pontes\Documents\codewars\ex11\bin\Debug\net8.0\ex11.runtimeconfig.json
+C:\Users\Pedro Pontes\Documents\codewars\ex11\bin\Debug\net8.0\ex11.dll
+C:\Users\Pedro Pontes\Documents\codewars\ex11\bin\Debug\net8.0\ex11.pdb
+C:\Users\Pedro Pontes\Documents\codewars\ex11\obj\Debug\net8.0\ex11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Pontes\Documents\codewars\ex11\obj\Debug\net8.0\ex11.AssemblyInfoInputs.cache
+C:\Users\Pedro Pontes\Documents\codewars\ex11\obj\Debug\net8.0\ex11.AssemblyInfo.cs
+C:\Users\Pedro Pontes\Documents\codewars\ex11\obj\Debug\net8.0\ex11.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Pontes\Documents\codewars\ex11\obj\Debug\net8.0\ex11.sourcelink.json
+C:\Users\Pedro Pontes\Documents\codewars\ex11\obj\Debug\net8.0\ex11.dll
+C:\Users\Pedro Pontes\Documents\codewars\ex11\obj\Debug\net8.0\refint\ex11.dll
+C:\Users\Pedro Pontes\Documents\codewars\ex11\obj\Debug\net8.0\ex11.pdb
+C:\Users\Pedro Pontes\Documents\codewars\ex11\obj\Debug\net8.0\ex11.genruntimeconfig.cache
+C:\Users\Pedro Pontes\Documents\codewars\ex11\obj\Debug\net8.0\ref\ex11.dll

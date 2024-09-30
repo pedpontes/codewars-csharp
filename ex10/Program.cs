@@ -5,7 +5,7 @@ using System.Collections;
 using System.Numerics;
 using System.Runtime.CompilerServices;
 
-namespace ex10
+namespace ex10 
 {
     public class Program{
         public static void Main(string[] args){
